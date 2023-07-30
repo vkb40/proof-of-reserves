@@ -1,0 +1,3 @@
+"transaction_date_start","transaction_date_end","filing_currency","country_code","state_code","jurisdiction_name","jurisdiction_level","tax_rate","filing_total_sales","filing_total_taxable_sales","filing_total_nontaxable_sales","filing_total_tax_collected","filing_total_refunds","filing_total_tax_refunded","filing_total_taxable_refunds","filing_tax_payable"
+"2023-04-26 19:38:02","2023-07-25 19:39:20","usd","US","LA","LOUISIANA","state","0.0445","4195482.20","4195482.20","0.00","186698.33","0.00","0.00","0.00","186698.33"
+"2023-04-26 19:38:02","2023-07-25 19:39:20","usd","US","LA","LAFAYETTE","county","0.04","4195482.20","4195482.20","0.00","167819.47","0.00","0.00","0.00","167819.47"
